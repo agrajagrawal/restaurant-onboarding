@@ -32,7 +32,6 @@ The following technologies were used to develop this project:
 2. Run `npm install` to install the dependencies.
 3. Run `npm start` to start the development server.
 
-Note: Since there are no environment variables used in the frontend, there is no need for a `.env` file in the frontend directory.
 
 ## Usage
 
