@@ -32,6 +32,29 @@ The following technologies were used to develop this project:
 2. Run `npm install` to install the dependencies.
 3. Run `npm start` to start the development server.
 
+## API Documentation
+
+- Documentation for the API endpoints included in the project, such as:
+  - POST /restaurant
+  - Payload of body
+  ```BASH    
+     {
+        "restaurantName" : "Vyom Foods",
+        "contactName" : "MrSmith",
+        "pincode" : 283203,
+        "location" : "Delhi",
+        "website" : "vyom.com",
+        "phoneNumber" : "1234567892",
+        "avgDailyTransactions" : 56
+     }    
+  ```    
+  - Response of API
+  ```js
+  {
+    "message": "Form submitted successfully."
+   }
+  ```
+    
 
 ## Usage
 
