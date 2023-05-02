@@ -1,5 +1,3 @@
-const Restaurant = require('../Models/restaurant');
-
 require('dotenv').config();
 
 const mongo = {
